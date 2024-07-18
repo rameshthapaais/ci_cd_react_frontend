@@ -22,7 +22,7 @@ function Nabbar() {
                             <img src="https://www.eit.ac.nz/wp-content/themes/eit2016/img/eit-header-tepukenga.svg" alt='EIT college'></img>
                             <Nav.Link href="/">Home</Nav.Link>
                             <Nav.Link href="/chatrooms">Chat Room</Nav.Link>
-                            <Nav.Link href="/students">Add Student</Nav.Link>
+                            <Nav.Link href="/student">Add Student</Nav.Link>
                             <Nav.Link href="/student_marks">Student Marks</Nav.Link>
                             <NavDropdown title="Link" id="navbarScrollingDropdown">
                                 <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
