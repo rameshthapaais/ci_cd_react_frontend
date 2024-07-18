@@ -1,0 +1,1 @@
+export const BaseUrl = "https://ci-cd-django-backend.vercel.app/"
